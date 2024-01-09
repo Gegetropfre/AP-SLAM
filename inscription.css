@@ -1,0 +1,17 @@
+h1, h2 {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.obligatory {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
+
+.optional {
+    text-align: center;
+    background-color: blue;
+}
+
